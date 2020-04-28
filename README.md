@@ -5,16 +5,16 @@ Proyecto de la EscuelaJS de Platzi México
 
 ## Description
 
-Working with React JS.
+### Convert to React Components, create a fake API and add Hooks
 
-Previous repository: https://github.com/FernandoTorresL/Curso_FrontEnd
+Working adding React JS to previous project: https://github.com/FernandoTorresL/Curso_FrontEnd
 
-We take the project from this [repository](https://github.com/FernandoTorresL/Curso_FrontEnd) and convert html pages to React Components.
-
-#### Convert to React Components, create a fake API and add Hooks
+We take the project from this [repository](https://github.com/FernandoTorresL/Curso_FrontEnd) and convert html pages to React Components, use a fake API and use React Hooks.
 
 This is the result: Preview of FrontEnd with React, Hooks and a fake API:
 ![Imgur](https://i.imgur.com/eOJdXWh.png)
+
+---
 
 ## How to use this project ##
 
@@ -40,7 +40,7 @@ Start the json server to simulate an API for this project.
 ```
 json-server initialState.json
 ```
-You can see the data in http://localhost:3000
+You can see the data [here](http://localhost:3000/initialState)
 
 ### Execute
 Now, open a new terminal, in the same folder, and execute with
